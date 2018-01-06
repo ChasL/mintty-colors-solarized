@@ -1,2 +1,2 @@
 # mintty-colors-solarized
-Solarized vim theme colors for use with mintty terminal
+Solarized vim theme colors (grey background) for use with mintty terminal
